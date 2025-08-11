@@ -5,3 +5,8 @@ Pipeline {
   tools{
       maven 'maven3.9.11'
       java 'jdk17'
+  Stages{
+      Stageb{
+          steps{
+            ('checkout')}}
+  git branmch:"" ,url:""
