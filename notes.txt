@@ -10,3 +10,13 @@ Pipeline {
           steps{
             ('checkout')}}
   git branmch:"" ,url:""
+Stageb{
+          steps{
+            ('checkout')}}
+  git branmch:"" ,url:""Stageb{
+          steps{
+            ('checkout')}}
+  git branmch:"" ,url:""Stageb{
+          steps{
+            ('checkout')}}
+  git branmch:"" ,url:""
