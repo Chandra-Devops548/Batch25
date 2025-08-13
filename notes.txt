@@ -10,9 +10,3 @@ Pipeline {
           steps{
             ('checkout')}}
   git branmch:"" ,url:""
-Stagec{
-          steps{
-            ('checkout')}}
-  git branmch:"" ,url:""Stagecx{
-          steps{
-            ('checkout')}}
