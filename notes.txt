@@ -10,3 +10,8 @@ Pipeline {
           steps{
             ('checkout')}}
   git branmch:"" ,url:""
+       Stages{
+      Stagecx{
+          steps{
+            ('checkout')}}
+         shell clean package
