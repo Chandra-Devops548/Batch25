@@ -9,8 +9,7 @@ Pipeline {
       Stageb{
           steps{
             ('checkout')}}
-      git branmch:"" ,url:""
-      Stage{
-          steps{
-             sh 'clean package'
-   
+  git branmch:"" ,url:""
+  Stage{
+      steps()
+         mvn deploy
