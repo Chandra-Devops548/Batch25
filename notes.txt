@@ -9,4 +9,8 @@ Pipeline {
       Stageb{
           steps{
             ('checkout')}}
-  git branmch:"" ,url:""
+      git branmch:"" ,url:""
+      Stage{
+          steps{
+             sh 'clean package'
+   
